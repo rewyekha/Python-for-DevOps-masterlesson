@@ -1,12 +1,12 @@
-print("Hello Dosto")
+print("Hello Folks")
 
-name = "Shubham"
+name = "Reyas"
 print("My name is",name)
 
 # Output:
 """
 
-Hello Dosto
-My name is Shubham
+Hello Folks
+My name is Reyas
 
 """
